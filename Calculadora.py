@@ -41,19 +41,3 @@ elif c=="/":
 else:
     print("\nDigite uma operação existente")
     
-    
-
-    
-
-    
-
-    
-
-
-
-
-
-
-
-
-
