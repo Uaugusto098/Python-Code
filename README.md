@@ -1,2 +1,4 @@
 # Python-Senai-
-Programação em python exemplos e exercicios 
+Todos os meus códigos relevantes praticados na linguagem de programação C
+
+
