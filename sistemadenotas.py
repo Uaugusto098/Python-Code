@@ -39,9 +39,13 @@ while log =="Pedro" and senha =="prof123":
 
     print(f"Nota média do aluno: {aluno} \n é de: \n{media}  ")
 
+    break
+
+
     
     
 
 
 
 
+input("Digite enter para sair")
