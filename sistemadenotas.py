@@ -16,20 +16,31 @@ while log!="Pedro" and senha!="prof123":
         log=input("\nDigite o usuario novamente: ")
         senha=input("\nDigite a senha novamente: ")
 
+        if log=="Pedro" and senha=="prof123":
+          break
     
-    print("\nConta bloqueada")
-    break 
+    else:
+        print("\nConta bloqueada")
+        break
 
+    
+    
 
+    
+while log =="Pedro" and senha =="prof123":
 
-
-
-if log =="Pedro" and senha =="prof123":
+    aluno=input("Digite o nome do aluno: ")
 
     for l in range(1,4):
-        nota=int(input("Digite as notas:  "))
-        notas.append[nota]
+        nota=int(input("Digite as notas do aluno:  "))
+        notas.append(nota)
+      
+    media=(notas[0] + notas[1] +notas[2] )/len(notas)
 
+    print(f"Nota média do aluno: {aluno} \n é de: \n{media}  ")
+
+    
+    
 
 
 
