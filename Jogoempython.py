@@ -83,10 +83,3 @@ while loop:
     desenhar()
 
     pygame.display.update()
-
-
-
-
-
-
-
